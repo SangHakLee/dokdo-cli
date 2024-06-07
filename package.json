@@ -1,0 +1,21 @@
+{
+  "name": "dokdo-cli",
+  "version": "0.1.0",
+  "description": "Generate javascript class from JSON schema",
+  "main": "dokdo-cli.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "bin": {
+    "dokdo-cli": "./dokdo-cli.js"
+  },
+  "keywords": [],
+  "author": "sanghaklee <code.ryan.lee@gmail.com>",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "commander": "^12.1.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
