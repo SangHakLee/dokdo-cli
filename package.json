@@ -1,7 +1,7 @@
 {
-  "name": "dokdo-cli",
+  "name": "@sanghak/dokdo-cli",
   "version": "0.1.0",
-  "description": "Generate javascript class from JSON schema",
+  "description": "Generate javascript class(@sanghak/dokdo) from JSON schema",
   "main": "dokdo-cli.js",
   "scripts": {
     "test": "jest"
@@ -9,9 +9,13 @@
   "bin": {
     "dokdo-cli": "./dokdo-cli.js"
   },
-  "keywords": [],
+  "keywords": ["@sanghak/dokdo", "lombok"],
   "author": "sanghaklee <code.ryan.lee@gmail.com>",
   "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/SangHakLee/dokdo-cli/issues"
+  },
+  "homepage": "https://github.com/SangHakLee/dokdo-cli#readme",
   "dependencies": {
     "commander": "^12.1.0"
   },
