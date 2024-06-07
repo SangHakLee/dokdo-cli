@@ -1,4 +1,4 @@
-# Dockdo CLI
+# Dokdo CLI
 ![npm](https://img.shields.io/npm/v/@sanghak/dokdo-cli)
 ![License](https://img.shields.io/github/license/sanghaklee/dokdo-cli)
 
