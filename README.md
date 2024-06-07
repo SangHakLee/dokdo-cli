@@ -6,7 +6,7 @@ A library that generates JavaScript class builders based on JSON Schema using th
 
 ## Usage
 ```bash
-$ npm install -g dokdo-
+$ npm install -g dokdo-cli
 
 $ dokdo-cli user.json
 Class user generated at user.js
